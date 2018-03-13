@@ -1,4 +1,5 @@
 # TuriCreate_CoLab_Image_classification
+<img align="right" src="https://docs-assets.developer.apple.com/turicreate/turi-dog.svg" alt="Turi Create" width="100">
 Using Google's Colab to create a deep learning model employing Apple's TuriCreate just using your browser.
 
 You do not need to own an expensive GPU to create deep learning models. 
