@@ -10,7 +10,7 @@ All of this costs you nothing!
 
 ## Objectives
 
-1) Create an iPython notebook in Google Drive using CoLab.
+1) Create an iPython/Jupyter notebook in Google Drive using CoLab.
 
 2) Install Apple’s TuriCreate deep learning package with GPU support using the iPython notebook.
 
